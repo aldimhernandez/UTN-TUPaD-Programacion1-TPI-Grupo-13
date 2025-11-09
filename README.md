@@ -60,13 +60,13 @@ El sistema opera mediante un menú interactivo y ofrece las siguientes capacidad
 
 ## 🗂️ Ejemplos de Entradas y Salidas
 
-| Operación                   | Entrada del Usuario                               | Salida Esperada                                                                       |
-| :-------------------------- | :------------------------------------------------ | :------------------------------------------------------------------------------------ |
-| **Búsqueda**                | `arg`                                             | Muestra en pantalla el país **Argentina** (coincidencia parcial).                     |
-| **Filtrado por Continente** | `c + Asia`                                        | Muestra solo los países donde el campo `continente` es "Asia".                        |
-| **Agregar País**            | `Atlantis` <br> `1000` <br> `5000` <br> `Oceanía` | `✅ País agregado exitosamente.`.                                                     |
-| **Validación de Error**     | `Población: -50`                                  | `⚠️ La población debe ser un número positivo.`                                        |
-| **Ordenamiento**            | `Criterio (n/p/s): p` <br> `Sentido (a/d): d`     | La lista se muestra ordenada por **Población, de forma Descendente (mayor a menor)**. |
+| Operación                              | Entrada del Usuario                                                                                                          | Salida Esperada                                                                                      |
+| :------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------- |
+| **Búsqueda (Opción 2)**                | `Seleccione una opción: 2` <br> `Ingrese el nombre a buscar: arg`                                                            | Muestra en pantalla el país **Argentina** (coincidencia parcial).                                    |
+| **Filtrado por Continente (Opción 3)** | `Seleccione una opción: 3` <br> `Ingrese criterio (c/p/s): c` <br> `Ingrese continente: Asia`                                | Muestra solo los países donde el campo `continente` es "Asia".                                       |
+| **Agregar País (Opción 6)**            | `Seleccione una opción: 6` <br> `Nombre: Atlantis` <br> `Población: 1000` <br> `Superficie: 5000` <br> `Continente: Oceanía` | `✅ País agregado exitosamente.` <br> El nuevo país se añade a la lista y se guarda en `paises.csv`. |
+| **Validación de Error**                | `Seleccione una opción: 6` <br> `Población: -50`                                                                             | `⚠️ La población debe ser un número positivo.`                                                       |
+| **Ordenamiento (Opción 4)**            | `Seleccione una opción: 4` <br> `Criterio (n/p/s): p` <br> `Sentido (a/d): d`                                                | La lista se muestra ordenada por **Población, de forma Descendente (mayor a menor)**.                |
 
 ---
 
