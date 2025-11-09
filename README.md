@@ -5,8 +5,8 @@
 1.  [Descripción del Proyecto](#-descripción-del-proyecto)
 2.  [Funcionalidades](#-funcionalidades)
 3.  [Instrucciones de Uso](#-instrucciones-de-uso)
-4.  [Ejemplos de Entradas y Salidas](#ejemplos-de-entradas-y-salidas)
-5.  [Integrantes del Grupo 13](#integrantes-del-grupo-13)
+4.  [Ejemplos de Entradas y Salidas](#%EF%B8%8F-ejemplos-de-entradas-y-salidas)
+5.  [Integrantes del Grupo 13](#-integrantes-del-grupo-13)
 
 ---
 
