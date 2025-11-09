@@ -5,8 +5,8 @@
 1.  [Descripción del Proyecto](#-descripción-del-proyecto)
 2.  [Funcionalidades](#-funcionalidades)
 3.  [Instrucciones de Uso](#-instrucciones-de-uso)
-4.  [Ejemplos de Entradas y Salidas](#-ejemplos-de-entradas-y-salidas)
-5.  [Integrantes del Grupo](#-integrantes-del-grupo)
+4.  [Ejemplos de Entradas y Salidas](#ejemplos-de-entradas-y-salidas)
+5.  [Integrantes del Grupo 13](#integrantes-del-grupo-13)
 
 ---
 
@@ -44,11 +44,11 @@ El sistema opera mediante un menú interactivo y ofrece las siguientes capacidad
 
 1.  **Clonar el repositorio:**
     ```bash
-    git clone [LINK_DE_TU_REPOSITORIO]
+    git clone https://github.com/aldimhernandez/UTN-TUPaD-Programacion1-TPI-Grupo-13.git
     ```
 2.  **Navegar al directorio del proyecto:**
     ```bash
-    cd [nombre-del-repo]
+    cd UTN-TUPaD-Programacion1-TPI-Grupo-13
     ```
 3.  **Ejecutar el archivo principal:**
     ```bash
