@@ -70,7 +70,7 @@ El sistema opera mediante un menú interactivo y ofrece las siguientes capacidad
 
 ---
 
-## 👥 Integrantes del Grupo
+## 👥 Integrantes del Grupo 13
 
 | Integrante                  | Comisión   | Email                   |
 | :-------------------------- | :--------- | :---------------------- |
